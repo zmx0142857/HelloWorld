@@ -1,4 +1,4 @@
-# HelloWorld
+# hello-world
 My first repository in github, for practice.
 
 # About myself
