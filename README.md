@@ -1,5 +1,6 @@
 # hello-world
 My first repository in github, for practice.
 
-# About myself
-I started learning C++ last autumn, then met Python by winter. They were wonderful.
+# About Myself
+I started learning C++ the autumn of 2016, then met Python by winter. They were
+wonderful.
